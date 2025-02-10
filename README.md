@@ -12,8 +12,7 @@ This repository documents my journey through the **HackBio BioCoding Internship*
 2. [Projects Overview](#projects-overview)
 3. [Repository Structure](#repository-structure)
 4. [Technologies Used](#technologies-used)
-5. [How to Contribute](#how-to-contribute)
-6. [Acknowledgments](#acknowledgments)
+5. [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -84,28 +83,8 @@ Each project folder contains:
 
 ---
 
-## 🤝 How to Contribute
-
-Contributions are welcome! If you'd like to contribute to this repository, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeatureName`).
-3. Commit your changes (`git commit -m "Add YourFeatureName"`).
-4. Push to the branch (`git push origin feature/YourFeatureName`).
-5. Open a pull request.
-
-Please ensure your contributions align with the goals of the repository and include proper documentation.
-
----
-
 ## 🙏 Acknowledgments
 
 I would like to thank the **HackBio Team** for organizing this incredible internship program and providing me with the opportunity to grow as a bioinformatician. Special thanks to my mentors and peers for their guidance and support throughout the journey.
-
----
-
-### License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
