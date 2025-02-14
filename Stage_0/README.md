@@ -1,4 +1,3 @@
-```markdown
 # 📋 Stage 0: Team Information Notebook
 
 This repository contains a Jupyter Notebook (`Stage_0.ipynb`) that defines and displays information about a team of four members. The notebook is structured to store and present details such as names, usernames, emails, hobbies, countries, disciplines, and preferred programming languages.
