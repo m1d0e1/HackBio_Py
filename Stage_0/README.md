@@ -9,7 +9,7 @@ This repository contains a Jupyter Notebook (`Stage_0.ipynb`) that defines and d
 You can view and run this notebook directly on Google Colab by clicking the badge below:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m1d0e1/HackBio_Py/blob/main/Stage_0.ipynb)
-[![LinkedIn Video](https://www.linkedin.com/posts/dorcas-adejuyigbe-313597274_bioinformatics-datascience-python-activity-7294450770626674688-9Pqa?utm_source=share&utm_medium=member_android)
+[![LinkedIn Video](https://www.linkedin.com/posts/dorcas-adejuyigbe-313597274_bioinformatics-datascience-python-activity-7294450770626674688-9Pqa?utm_source=share&utm_medium)
 
 ---
 
