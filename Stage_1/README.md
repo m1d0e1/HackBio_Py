@@ -30,7 +30,7 @@ Protein Sequence: MTMITDSRLPAS*PGSAERKFASGLLTASRWPP*PTTMYDQDGRRSIWTTTMT*PWPISGPG
 - **Visualization**: Plots the growth curve with annotated phase transitions.
 
 #### Example Output:
-![Growth Curve Plot](https://via.placeholder.com/600x400/1f77b4/ffffff?text=Microbial+Growth+Curve)
+![Growth Curve Plot](images/growth_curve.jpg)
 
 ---
 
@@ -46,5 +46,3 @@ Install dependencies:
 ```bash
 pip install biopython numpy matplotlib
 ```
-
-This README provides a structured overview, making it easy for users to understand and run the notebook. Adjust the placeholder image link if actual plot images are available.
